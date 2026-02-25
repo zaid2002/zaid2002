@@ -5,8 +5,8 @@
 ## About Me
 - Hi, I'm Mohammed Zaid Shariff
 - Computer Science Graduate
-- Fresher
-- Web Developer
+- Intern
+- Web Developer 
 - Looking for a developer role
 
 ## Contact Me
